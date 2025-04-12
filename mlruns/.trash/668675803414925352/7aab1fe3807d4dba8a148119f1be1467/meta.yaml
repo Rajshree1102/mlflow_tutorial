@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/668675803414925352/7aab1fe3807d4dba8a148119f1be1467/artifacts
+deleted_time: 1744481231317
+end_time: null
+entry_point_name: ''
+experiment_id: '668675803414925352'
+lifecycle_stage: deleted
+run_id: 7aab1fe3807d4dba8a148119f1be1467
+run_name: honorable-bug-727
+run_uuid: 7aab1fe3807d4dba8a148119f1be1467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744479477725
+status: 1
+tags: []
+user_id: khush

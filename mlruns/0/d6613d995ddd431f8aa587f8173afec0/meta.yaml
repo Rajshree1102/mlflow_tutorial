@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d6613d995ddd431f8aa587f8173afec0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6613d995ddd431f8aa587f8173afec0
+run_name: respected-bass-997
+run_uuid: d6613d995ddd431f8aa587f8173afec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744479539188
+status: 1
+tags: []
+user_id: khush

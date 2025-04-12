@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d7fecd63fdff48609b1c1a69de93369a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7fecd63fdff48609b1c1a69de93369a
+run_name: upbeat-vole-201
+run_uuid: d7fecd63fdff48609b1c1a69de93369a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744481038796
+status: 1
+tags: []
+user_id: khush
